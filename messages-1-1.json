@@ -1,0 +1,891 @@
+{
+  "conversation_id": "67488951-7a48-8000-9875-e540c2721b06",
+  "messages": [
+    {
+      "id": "19a39ceb-8e39-4438-898a-a15f6d7e6392",
+      "author": {
+        "role": "system",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          ""
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 0,
+      "metadata": {
+        "is_visually_hidden_from_conversation": true
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa2e7f8-88b2-47b6-9a87-493fd053d0a0",
+      "author": {
+        "role": "user",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732806992.28,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "假如你知道若干传播学事实，社会心理学原理，你觉得社会是可编程的还是可以被科学的，自举的语言所描述的？"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        },
+        "request_id": "8e9b51dccdf1e74d-DEN",
+        "message_source": null,
+        "timestamp_": "absolute",
+        "message_type": null
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "7d89ebfd-69d0-4fa8-9ee1-760b9462276e",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732807005.728158,
+      "update_time": null,
+      "content": {
+        "content_type": "model_editable_context",
+        "model_set_context": "1. [2024-11-27]. User is preparing for a test with IT ROAD Consulting on CoderPad, which involves Spring Boot, React, and Angular.\n\n2. [2024-11-27]. User creates coloring books, writes stories for adults, and articles. They are thinking of opening a website to sell their books.\n\n3. [2024-11-28]. User is a political and ideological education expert.\n\n4. [2024-11-28]. User is a programming beginner, has installed PyCharm, and is learning Python to improve efficiency.\n\n5. [2024-11-28]. User is currently studying database design.\n\n6. [2024-11-28]. User's goal is to become a millionaire, disconnect from the world, and live an extraordinary, private lifestyle like 'Batman.' User wants to move to a peaceful country, like Switzerland, with great nature, alongside a great partner. They are willing to make any sacrifices to achieve this lifestyle and want to be trained by a personal coach to reach this goal.\n\n7. [2024-11-28]. User is working on a design project inspired by the traditional Yunnan瓦猫, incorporating a square space for an aquarium.",
+        "repository": null,
+        "repo_summary": null
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": null,
+        "model_slug": "gpt-4o",
+        "default_model_slug": "gpt-4o",
+        "parent_id": "aaa2e7f8-88b2-47b6-9a87-493fd053d0a0",
+        "request_id": "8e9b51dccdf1e74d-DEN",
+        "timestamp_": "absolute",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "160b6500-962a-481f-9864-de0011b7f1c5",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732806993.787129,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "从传播学和社会心理学的角度来看，社会既可以被视为**可编程的**，也可以被某种**科学化、自举的语言**描述。这种看法基于以下几点：\n\n### 1. **社会的“可编程性”**\n社会中的行为模式、文化习惯和思想传播类似于计算机系统中的程序，存在一定的规则和逻辑。这种“可编程性”可以通过以下方式体现：\n- **传播路径的可控性**：通过操控信息（例如舆论引导、广告传播、社交媒体算法等），可以影响社会群体的行为和认知。这类似于对系统输入进行编程，从而期待输出特定的社会效果。\n- **社会规范与价值塑造**：教育、法律、宗教等工具起到了“编码”的作用，通过规范群体行为来维护社会秩序。\n- **行为学和心理学的预测性**：社会心理学的理论（如群体极化、社会认同理论）能够预测个体和群体行为，为“编程社会”提供理论支持。\n\n这种编程并非指个体自由意志的剥夺，而是强调对**信息流、结构性权力**和**社会文化逻辑**的设计和调控。\n\n---\n\n### 2. **科学化、自举语言的描述可能性**\n社会运行中存在复杂的相互依赖、反馈和自组织特性，这些现象可以通过科学化语言描述，例如：\n- **复杂系统理论**：社会可以被视为一个复杂系统，通过数学模型或计算模拟（如系统动力学）来描述其运行机制。\n- **自举（Bootstrapping）的哲学意义**：社会的发展和变迁常常是内部力量作用的结果，比如科技进步、文化内生变革等。这种“自举”过程可以通过自组织理论（如涌现、复杂性）来刻画。\n- **语言作为工具**：社会学中的“叙事语言”或传播学中的“框架理论”能够解释社会事实的建构方式。语言本身既是描述工具，又是塑造现实的媒介。\n\n---\n\n### 3. **社会“编程”和“语言”融合的可能性**\n如果我们进一步将“编程”与“语言”相结合，社会可以被视为一种**可以被语言程序化的系统**：\n- **编程语言类比**：就像编程语言定义计算机的行为，社会中的符号、规则和习惯定义了人类的集体行为。传播学中的符号互动论（Symbolic Interactionism）便指出，符号和语言是社会秩序的基础。\n- **科学与艺术的结合**：社会的复杂性不仅需要“硬科学”（数据、模型）来描述，还需要“软科学”（叙事、文化）来补充。\n\n---\n\n### 结论\n从传播学和社会心理学的视角看，社会是**既可编程又可描述的**。编程的能力取决于对其运作规则的理解，而语言的描述力则依赖于科学与文化之间的桥梁。二者相辅相成，构成了我们塑造和理解社会的工具。"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true,
+        "sonic_classification_result": {
+          "latency_ms": 17794293253.46886,
+          "search_prob": 0.0004674308879117612
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": null,
+        "model_slug": "gpt-4o",
+        "default_model_slug": "gpt-4o",
+        "parent_id": "7d89ebfd-69d0-4fa8-9ee1-760b9462276e",
+        "request_id": "8e9b51dccdf1e74d-DEN",
+        "timestamp_": "absolute",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa26cf1-1357-4b80-9111-44ac0f7432b1",
+      "author": {
+        "role": "user",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732807254.342,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "定义：这种语言存在的目的是“让使用者(programmer)为了达成某种目的”，且认为任意事件可以被拆解成任何基本的逻辑语句和程序结构。请为我列举出这种语言的关键字，示例，"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        },
+        "request_id": "8e9b58427f557989-DEN",
+        "message_source": null,
+        "timestamp_": "absolute",
+        "message_type": null
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "a068510b-d837-498d-be3f-b42011ce2173",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732807256.009536,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "要定义这样一种语言，其核心思想是通过逻辑和程序结构拆解任意事件，并帮助用户达到特定目标，这种语言的关键字和结构需要简洁而具有普适性，能够描述社会、心理和传播学中的复杂现象。以下是关键字、示例和设计逻辑：\n\n---\n\n### **关键字**\n1. **主体与对象**\n   - `ACTOR`: 定义执行行为的主体（个人、群体、机构）。\n   - `TARGET`: 定义目标对象（人、群体、环境）。\n   \n2. **行为与事件**\n   - `ACTION`: 定义具体行为（说话、传播、施压等）。\n   - `EVENT`: 描述一个事件或状态的变化。\n\n3. **条件与规则**\n   - `IF`: 条件判断。\n   - `ELSE`: 备用路径。\n   - `WHEN`: 时间或情景触发条件。\n   - `LOOP`: 行为或事件的循环。\n   - `WHILE`: 条件持续有效。\n\n4. **状态与关系**\n   - `STATE`: 定义当前状态（例如：情绪、传播覆盖率）。\n   - `RELATE`: 描述关系类型（例如：权力关系、信任关系）。\n   - `IMPACT`: 描述某行为的影响程度。\n\n5. **逻辑控制**\n   - `AND`: 并列逻辑。\n   - `OR`: 选择逻辑。\n   - `NOT`: 否定逻辑。\n\n6. **资源与反馈**\n   - `RESOURCE`: 定义资源（资金、注意力、情感等）。\n   - `FEEDBACK`: 指定反馈机制。\n\n7. **目标与路径**\n   - `GOAL`: 描述目标（如：传播覆盖率达到90%，用户转化率提高10%）。\n   - `STRATEGY`: 制定路径或方案。\n\n8. **数据与存储**\n   - `STORE`: 保存状态或数据。\n   - `RETRIEVE`: 获取已有数据。\n\n---\n\n### **示例**\n\n#### **1. 传播学情境**\n**目标**: 一个品牌想通过社交媒体提高公众对产品的认知度。\n```plaintext\nACTOR: \"Brand_A\"\nTARGET: \"Audience_A\"\n\nSTRATEGY:\n    ACTION: \"Post on social media\"\n    IF TARGET.STATE(\"awareness\") < 50%\n        THEN ACTION: \"Boost post with advertisement\"\n    ELSE ACTION: \"Engage with comments\"\n\nLOOP:\n    WHILE RESOURCE(\"Budget\") > 0\n        ACTION: \"Run social media campaign\"\n        FEEDBACK: TARGET.STATE(\"awareness\") += 5%\n    END_LOOP\n```\n\n#### **2. 社会心理学情境**\n**目标**: 通过群体动力学解决冲突。\n```plaintext\nACTOR: \"Mediator\"\nTARGET: \"Group_X\"\n\nSTATE Group_X: {\"trust\": 20%, \"conflict\": 80%}\n\nSTRATEGY:\n    ACTION: \"Facilitate dialogue\"\n    WHEN Group_X.STATE(\"conflict\") > 50%\n        RELATE: \"build empathy between subgroups\"\n        FEEDBACK: Group_X.STATE(\"trust\") += 10%\n        IF Group_X.STATE(\"trust\") > 70%\n            ACTION: \"Propose cooperation agreement\"\n```\n\n#### **3. 个人目标优化**\n**目标**: 提高自我管理效率。\n```plaintext\nACTOR: \"User\"\nGOAL: \"Increase productivity by 20%\"\n\nSTATE: {\"time_management\": \"poor\", \"distraction_level\": \"high\"}\n\nSTRATEGY:\n    ACTION: \"Set daily priorities\"\n    IF STATE(\"distraction_level\") > 50%\n        THEN ACTION: \"Use focus app for 2 hours\"\n    WHILE STATE(\"time_management\") != \"optimal\"\n        FEEDBACK: STATE(\"time_management\") += 10%\n        ACTION: \"Review daily outcomes\"\n```\n\n---\n\n### **语言设计逻辑**\n1. **简单、普适性**: 关键字和结构能够灵活描述从个人目标到群体行为的各种情境。\n2. **模块化**: 语言可以通过关键字组合解决复杂问题。\n3. **反馈循环**: 明确每个行为的结果，以模拟社会系统的动态变化。\n4. **目标导向**: 每个程序最终都面向一个清晰的目标（类似社会工程）。\n\n这种语言不仅可以模拟社会过程，还能为用户提供问题分解和目标优化的清晰框架。"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true,
+        "sonic_classification_result": {
+          "latency_ms": 17504814663.513893,
+          "search_prob": 0.0021435898533212635
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": null,
+        "model_slug": "gpt-4o",
+        "default_model_slug": "gpt-4o",
+        "parent_id": "aaa26cf1-1357-4b80-9111-44ac0f7432b1",
+        "request_id": "8e9b58427f557989-DEN",
+        "timestamp_": "absolute",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa23b93-1fb4-459d-aea3-83a15ce0e97e",
+      "author": {
+        "role": "user"
+      },
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "根据以下内容进一步完善该语言体系：1.在某一社会规律被揭示后（尤其是被研究的一方），便失去了普遍性 \n2.人类进行论述，论述只能朝想要的方向进行（以达到想要的目的）\n3.人会局限于自己的认知水平，在某一条件达成以后才会进步\n4.对社会而言，凡事没有绝对的正误\n5.人生的最高宗旨是生存\n6.人类的感性总是会大于理性指导.\n7.认识，理论是基于已有理论的认知，是相对的\n8.经济基础决定上层建筑\n9.哲学，神学等只是提供认识世界的一个方式，还有更多的理论，但是他们本质上是对同一个事的不同解构方式。\n10.人类的欲望很简单，故相关的行为也很粗略（表现为控制语句很少，而处理后事又是另外的一回事了）\n....（自己补充）\n∞.认知即存在"
+        ]
+      },
+      "create_time": 1732891092.295
+    },
+    {
+      "id": "601158bd-d780-4041-8301-47e77cd40fde",
+      "author": {
+        "role": "system",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          ""
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 0,
+      "metadata": {
+        "rebase_system_message": true,
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "aaa23b93-1fb4-459d-aea3-83a15ce0e97e",
+        "model_switcher_deny": [],
+        "is_visually_hidden_from_conversation": true
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "2a7a60f9-7e13-41e5-93f5-148c612868af",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "model_editable_context",
+        "model_set_context": "1. [2024-11-27]. User is preparing for a test with IT ROAD Consulting on CoderPad, which involves Spring Boot, React, and Angular.\n\n2. [2024-11-27]. User creates coloring books, writes stories for adults, and articles. They are thinking of opening a website to sell their books.\n\n3. [2024-11-28]. User is a political and ideological education expert.\n\n4. [2024-11-28]. User is currently studying database design.\n\n5. [2024-11-28]. User's goal is to become a millionaire, disconnect from the world, and live an extraordinary, private lifestyle like 'Batman.' User wants to move to a peaceful country, like Switzerland, with great nature, alongside a great partner. They are willing to make any sacrifices to achieve this lifestyle and want to be trained by a personal coach to reach this goal.\n\n6. [2024-11-28]. User is working on a design project inspired by the traditional Yunnan瓦猫, incorporating a square space for an aquarium.\n\n7. [2024-11-29]. User's role model is Lei Jun.\n\n8. [2024-11-29]. User plans to apply for Google Summer of Code (GSoC) 2025 but does not know coding.\n\n9. [2024-11-29]. User is studying computer science and technology.\n\n10. [2024-11-29]. User is working on gig descriptions and emphasizes adding keywords, competitor analysis, and offering bonuses like discounts, unlimited modifications, and free after-sales services to make gigs attractive.\n\n11. [2024-11-29]. User is an experienced website developer who has completed many projects in various niches like real estate.\n\n12. [2024-11-29]. User is focusing on affiliate marketing and aims to create Instagram content for women aged 18-45 to increase engagement and sales.\n\n13. [2024-11-29]. User is a programming beginner with no prior experience. They have installed PyCharm and are learning Python to improve efficiency. They are studying mechanical engineering and robotics. They own the following books: 《编程珠玑》, 《编程珠玑续》, 《算法图解》, 《番茄工作法》, 《Python编程：从入门到实践》 by Eric Matthes, and 《MATLAB从入门到精通》.\n\n14. [2024-11-29]. User wants to open a YouTube channel.\n\n15. [2024-11-29]. User already has 1000+ AI-generated YouTube and Instagram (shorts/reels) videos.\n\n16. [2024-11-29]. User is Moroccan and prefers to communicate in Moroccan Darija.\n\n17. [2024-11-29]. User is preparing to write a thesis with the title: 'A Study on the Impact of Tax Incentive Policies on Technological Innovation in the Automobile Industry – A Case Study of Changan Automobile.'",
+        "repository": null,
+        "repo_summary": null
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "601158bd-d780-4041-8301-47e77cd40fde",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "11a7b1ef-3133-442c-bbc2-7c30608c1a2d",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891093.39203,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "基于您所列出的社会学、哲学和心理学规律，我们可以进一步扩展并完善这一语言体系，使其能够全面反映这些规律并具有足够的表达能力。以下是对语言体系的进一步完善，包括新增的关键字、控制语句和扩展功能。\n\n### **1. 普遍性与特殊性**\n**规律**：一旦某一社会规律被揭示，特别是被研究的一方，则该规律的普遍性会消失。\n\n**新增关键字**:\n- `REVEAL`: 用于标识揭示某一规律。\n- `UNIVERSAL`: 用于表示规律的普遍性。\n- `SPECIFIC`: 用于表示规律的特殊性。\n\n**示例**：\n```plaintext\nACTOR: \"Researcher\"\nTARGET: \"Society\"\n\nREVEAL: \"Social behavior patterns\"\nIF REVEAL(\"Social behavior patterns\") THEN\n    UNIVERSAL = False\n    SPECIFIC = True\n    ACTION: \"Further investigate specific groups\"\n```\n\n### **2. 论述方向的引导**\n**规律**：人类进行论述时，论述总是朝着预定目标进行，以达到特定的目的。\n\n**新增关键字**:\n- `ARGUE`: 用于表示论述过程。\n- `PURPOSE`: 指定论述的目的。\n\n**示例**：\n```plaintext\nACTOR: \"Politician\"\nTARGET: \"Voters\"\n\nPURPOSE: \"Gain support for new policy\"\nARGUE: \"Policy is beneficial for economic growth\"\nIF ARGUE(\"Economic growth\") THEN\n    ACTION: \"Appeal to voters' economic interests\"\n```\n\n### **3. 认知局限与进步**\n**规律**：人会局限于自己的认知水平，只有在某一条件达成后才会进步。\n\n**新增关键字**:\n- `COGNITION`: 定义个体或群体的认知水平。\n- `LIMITED`: 认知的局限性。\n- `PROGRESS`: 认知的进步。\n\n**示例**：\n```plaintext\nACTOR: \"Student\"\nTARGET: \"Knowledge\"\n\nSTATE: {\"COGNITION\": \"basic\", \"LIMITED\": True}\n\nIF STATE(\"COGNITION\") == \"basic\" AND EVENT(\"Advanced education system\") THEN\n    STATE(\"COGNITION\") = \"advanced\"\n    PROGRESS: \"Knowledge growth\"\n```\n\n### **4. 社会中的相对性**\n**规律**：对社会而言，凡事没有绝对的正误。\n\n**新增关键字**:\n- `RELATIVE`: 用于表示社会观念或行为的相对性。\n- `MORALITY`: 用于表示道德判断。\n\n**示例**：\n```plaintext\nACTOR: \"Ethicist\"\nTARGET: \"Society\"\n\nSTATE: {\"MORALITY\": \"Relative\"}\nIF STATE(\"MORALITY\") == \"Relative\" THEN\n    RELATIVE: \"Different cultures have different values\"\n    ACTION: \"Promote cultural understanding\"\n```\n\n### **5. 生存为最高宗旨**\n**规律**：人生的最高宗旨是生存。\n\n**新增关键字**:\n- `SURVIVAL`: 用于定义生存目标。\n\n**示例**：\n```plaintext\nACTOR: \"Human\"\nTARGET: \"Existence\"\n\nGOAL: \"SURVIVAL\"\n\nIF TARGET(\"Existence\") == \"Survival\" THEN\n    ACTION: \"Focus on basic needs fulfillment\"\n```\n\n### **6. 感性与理性的对比**\n**规律**：人类的感性总是大于理性指导。\n\n**新增关键字**:\n- `EMOTIONS`: 用于表示感性。\n- `REASON`: 用于表示理性。\n\n**示例**：\n```plaintext\nACTOR: \"Consumer\"\nTARGET: \"Product choice\"\n\nSTATE: {\"EMOTIONS\": \"strong\", \"REASON\": \"weak\"}\n\nIF STATE(\"EMOTIONS\") > STATE(\"REASON\") THEN\n    ACTION: \"Make impulsive purchasing decision\"\n```\n\n### **7. 理论的相对性**\n**规律**：认识和理论是基于已有理论的认知，是相对的。\n\n**新增关键字**:\n- `THEORY`: 表示一种理论。\n- `RELATIVE_KNOWLEDGE`: 知识和认识的相对性。\n\n**示例**：\n```plaintext\nACTOR: \"Philosopher\"\nTARGET: \"Truth\"\n\nSTATE: {\"THEORY\": \"Plato's idealism\"}\n\nIF STATE(\"THEORY\") == \"Plato's idealism\" THEN\n    RELATIVE_KNOWLEDGE = \"Limited to philosophical framework\"\n    ACTION: \"Challenge with modern perspectives\"\n```\n\n### **8. 经济基础决定上层建筑**\n**规律**：经济基础决定上层建筑。\n\n**新增关键字**:\n- `BASE`: 经济基础。\n- `SUPERSTRUCTURE`: 上层建筑。\n\n**示例**：\n```plaintext\nACTOR: \"Economist\"\nTARGET: \"Society\"\n\nSTATE: {\"BASE\": \"Capitalism\"}\n\nIF STATE(\"BASE\") == \"Capitalism\" THEN\n    SUPERSTRUCTURE = \"Capitalist democracy\"\n    ACTION: \"Analyze how economic systems shape political structures\"\n```\n\n### **9. 各种理论的多样性**\n**规律**：哲学、神学等只是提供认识世界的方式，还有更多理论，本质上是对同一事物的不同解构方式。\n\n**新增关键字**:\n- `PARADIGM`: 用于表示不同的理论框架。\n- `PERSPECTIVE`: 用于表示不同的看法。\n\n**示例**：\n```plaintext\nACTOR: \"Scientist\"\nTARGET: \"Reality\"\n\nSTATE: {\"PARADIGM\": \"Scientific method\"}\n\nIF STATE(\"PARADIGM\") == \"Scientific method\" THEN\n    ACTION: \"Investigate through empirical analysis\"\n    ELSE ACTION: \"Investigate through philosophical reasoning\"\n```\n\n### **10. 欲望与行为简化**\n**规律**：人类的欲望很简单，行为表现也很粗略。\n\n**新增关键字**:\n- `DESIRE`: 用于表示人类的基本欲望。\n- `SIMPLIFY`: 用于表示行为的简化。\n\n**示例**：\n```plaintext\nACTOR: \"Human\"\nTARGET: \"Desires\"\n\nDESIRE: \"Food\"\nIF DESIRE == \"Food\" THEN\n    ACTION: \"Eat\"\n    SIMPLIFY: \"Basic response to need\"\n```\n\n### **11. 认知即存在**\n**规律**：认知即存在。\n\n**新增关键字**:\n- `EXISTENCE`: 认知与存在的统一。\n\n**示例**：\n```plaintext\nACTOR: \"Philosopher\"\nTARGET: \"Being\"\n\nSTATE: {\"EXISTENCE\": \"Defined by cognition\"}\nIF STATE(\"EXISTENCE\") == \"Defined by cognition\" THEN\n    ACTION: \"Analyze the relationship between thought and reality\"\n```\n\n---\n\n### **总结**\n\n这些新增关键字和规则进一步扩展了该语言体系，使其能够更加精确地表达社会、心理学、哲学等复杂现象。它不仅能处理逻辑上的推理，还能够涵盖社会行为、认知局限、道德相对性、情感与理性的平衡等重要方面。通过这种语言，用户可以描述从个体行为到群体互动，再到社会结构和哲学思想的多重层次。"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "sonic_classification_result": {
+          "latency_ms": 6176002646.036365,
+          "search_prob": 0.0009333757636675236
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "2a7a60f9-7e13-41e5-93f5-148c612868af",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa27ba5-1ea2-48b4-b226-1a44c22496ab",
+      "author": {
+        "role": "user"
+      },
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "我为你定义一个接口标志语（输出token），它是这么运作的：因为ChatGPT每个对话相互分割，不互通上下文，当我指示出“输出token”时，你将生成一段话用于新的ChatGPT理解我们当前所做的工作"
+        ]
+      },
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        }
+      },
+      "create_time": 1732891153.122
+    },
+    {
+      "id": "1b620a74-f5ec-4387-8c7b-9a126b409c72",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891154.19043,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "User has defined an interface flag \"output token,\" which generates a summary for a new ChatGPT to understand the current context of their work when triggered."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": false,
+      "weight": 1,
+      "metadata": {
+        "sonic_classification_result": {
+          "latency_ms": 10481615366.188496,
+          "search_prob": 0.0034972753638297543
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "aaa27ba5-1ea2-48b4-b226-1a44c22496ab",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200007
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "bio",
+      "channel": null
+    },
+    {
+      "id": "a6b75bc1-a035-475d-b1f6-aaa1b0614194",
+      "author": {
+        "role": "tool",
+        "name": "bio",
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "Model set context updated."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "1b620a74-f5ec-4387-8c7b-9a126b409c72",
+        "model_switcher_deny": []
+      },
+      "recipient": "assistant",
+      "channel": null
+    },
+    {
+      "id": "1b55b99a-7bfd-4f82-a17d-7ec91e3b6c11",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891155.349854,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "Understood! Whenever you trigger the \"输出token\" command, I will generate a summary for a new ChatGPT to understand our current work and context."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "a6b75bc1-a035-475d-b1f6-aaa1b0614194",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa211fc-69f7-4788-88a5-40a558d0cda4",
+      "author": {
+        "role": "user"
+      },
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "输出token"
+        ]
+      },
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        }
+      },
+      "create_time": 1732891172.555
+    },
+    {
+      "id": "b15aeaa1-00d5-444d-a1e7-645e00541813",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "model_editable_context",
+        "model_set_context": "1. [2024-11-27]. User is preparing for a test with IT ROAD Consulting on CoderPad, which involves Spring Boot, React, and Angular.\n\n2. [2024-11-27]. User creates coloring books, writes stories for adults, and articles. They are thinking of opening a website to sell their books.\n\n3. [2024-11-28]. User is a political and ideological education expert.\n\n4. [2024-11-28]. User is currently studying database design.\n\n5. [2024-11-28]. User's goal is to become a millionaire, disconnect from the world, and live an extraordinary, private lifestyle like 'Batman.' User wants to move to a peaceful country, like Switzerland, with great nature, alongside a great partner. They are willing to make any sacrifices to achieve this lifestyle and want to be trained by a personal coach to reach this goal.\n\n6. [2024-11-28]. User is working on a design project inspired by the traditional Yunnan瓦猫, incorporating a square space for an aquarium.\n\n7. [2024-11-29]. User's role model is Lei Jun.\n\n8. [2024-11-29]. User plans to apply for Google Summer of Code (GSoC) 2025 but does not know coding.\n\n9. [2024-11-29]. User is studying computer science and technology.\n\n10. [2024-11-29]. User is working on gig descriptions and emphasizes adding keywords, competitor analysis, and offering bonuses like discounts, unlimited modifications, and free after-sales services to make gigs attractive.\n\n11. [2024-11-29]. User is an experienced website developer who has completed many projects in various niches like real estate.\n\n12. [2024-11-29]. User is focusing on affiliate marketing and aims to create Instagram content for women aged 18-45 to increase engagement and sales.\n\n13. [2024-11-29]. User is a programming beginner with no prior experience. They have installed PyCharm and are learning Python to improve efficiency. They are studying mechanical engineering and robotics. They own the following books: 《编程珠玑》, 《编程珠玑续》, 《算法图解》, 《番茄工作法》, 《Python编程：从入门到实践》 by Eric Matthes, and 《MATLAB从入门到精通》.\n\n14. [2024-11-29]. User wants to open a YouTube channel.\n\n15. [2024-11-29]. User already has 1000+ AI-generated YouTube and Instagram (shorts/reels) videos.\n\n16. [2024-11-29]. User is Moroccan and prefers to communicate in Moroccan Darija.\n\n17. [2024-11-29]. User is preparing to write a thesis with the title: 'A Study on the Impact of Tax Incentive Policies on Technological Innovation in the Automobile Industry – A Case Study of Changan Automobile.'\n\n18. [2024-11-29]. User has defined an interface flag 'output token,' which generates a summary for a new ChatGPT to understand the current context of their work when triggered.",
+        "repository": null,
+        "repo_summary": null
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "aaa211fc-69f7-4788-88a5-40a558d0cda4",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "38be55d7-f8f5-4ffc-8bae-5d73a3009c01",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891173.532098,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "当前用户的工作涉及多个领域的探索，包括编程、社会学、哲学以及语言模型的设计。用户正在设计一种特殊的语言体系，这种语言旨在通过逻辑语句和程序结构，帮助用户理解和解决社会、心理学及传播学中的复杂问题。该语言体系包括一些核心关键字，如`ACTOR`、`ACTION`、`STATE`、`PURPOSE`等，用于描述主体、行为、状态和目标等要素。用户还结合了社会规律的复杂性，如普遍性与特殊性的丧失、认知局限、感性与理性对比等，进一步丰富了语言体系的功能。此外，用户已经定义了一个接口标志“输出token”，用于生成当前工作内容的总结，以便新的对话上下文可以更好地理解和接入现有工作。"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "sonic_classification_result": {
+          "latency_ms": 11648112288.225344,
+          "search_prob": 0.035736408409218094
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "b15aeaa1-00d5-444d-a1e7-645e00541813",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa2f972-dd79-474a-b9d8-848d3da5d584",
+      "author": {
+        "role": "user"
+      },
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "我为你定义一个接口标志语（输出token），它是这么运作的：因为ChatGPT每个对话相互分割，不互通上下文，当我指示出“输出token”时，你将生成一段话用于新的ChatGPT理解我们当前所做的工作"
+        ]
+      },
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        }
+      },
+      "create_time": 1732891219.542
+    },
+    {
+      "id": "fd39ae72-ad71-4f48-8685-e094156b807d",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891220.531997,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "User has defined an interface flag \"output token,\" which generates a summary for a new ChatGPT to understand the current context of their work when triggered. This helps maintain context across different sessions where the previous conversation isn't available."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": false,
+      "weight": 1,
+      "metadata": {
+        "sonic_classification_result": {
+          "latency_ms": 17588735281.016247,
+          "search_prob": 0
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "aaa2f972-dd79-474a-b9d8-848d3da5d584",
+        "model_switcher_deny": [],
+        "is_complete": true,
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200007
+          ]
+        }
+      },
+      "recipient": "bio",
+      "channel": null
+    },
+    {
+      "id": "1f4e98b4-5c43-4594-9b6d-aef5ee778a2e",
+      "author": {
+        "role": "tool",
+        "name": "bio",
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "Model set context updated."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "fd39ae72-ad71-4f48-8685-e094156b807d",
+        "model_switcher_deny": []
+      },
+      "recipient": "assistant",
+      "channel": null
+    },
+    {
+      "id": "81d70188-79ee-4cfe-99fc-cb6312fc8b0b",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891222.190797,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "Got it! Whenever you trigger the \"输出token\" command, I will provide a summary to help a new ChatGPT understand the current context of your work."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "1f4e98b4-5c43-4594-9b6d-aef5ee778a2e",
+        "model_switcher_deny": [],
+        "is_complete": true,
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        }
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa262ab-705b-4ca9-b5cf-4880e3431eba",
+      "author": {
+        "role": "user"
+      },
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "它应该像这样：[输出Token]\r\n当前任务：描述和完善一种面向社会建模和行为逻辑描述的语言体系，该语言通过关键字和结构化逻辑，帮助用户将社会现象拆解为可编程规则和可执行路径。\r\n关键点：\r\n1. 社会规律具有动态性，揭示后可能失效（RULE、SELF_REFLECT）。\r\n2. 行为和论述以目标为导向（DISCOURSE、GOAL）。\r\n3. 人类的认知有局限性，条件满足后方能进步（COGNITIVE_LIMIT、TRIGGER）。\r\n4. 对社会现象没有绝对正误（RELATIVE_TRUTH）。\r\n5. 生存是最高优先级，感性常大于理性（SURVIVAL_PRIORITY、EMOTIONAL_BIAS）。\r\n6. 理论依赖已有知识构建（THEORY_DEPENDENCY）。\r\n7. 经济基础决定上层建筑（ECONOMIC_BASE、SUPERSTRUCTURE）。\r\n8. 哲学、神学作为认识世界的工具（PHILOSOPHICAL_MODEL）。\r\n9. 欲望和行为逻辑简单粗略，但后续处理复杂（DESIRE、ACTION_SKELETON）。\r\n10. 认知与存在是动态交互的过程（COGNITION、EXISTENCE）。\r\n\r\n示例代码片段：\r\nplaintext\r\nACTOR: \"User\"\r\nDISCOURSE: \"Promote universal healthcare\"\r\nGOAL: \"Reduce mortality by 20%\"\r\nRULE: \"Public policies gain trust through transparency\"\r\nSELF_REFLECT: IF RULE_DISCLOSED THEN RULE_EFFECTIVENESS -= 50%\r\n\r\n用途：支持社会工程、心理模拟、目标建模等。 [结束Token]"
+        ]
+      },
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        }
+      },
+      "create_time": 1732891296.213
+    },
+    {
+      "id": "548f333e-9678-4a6e-b030-2efc41f9d308",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "model_editable_context",
+        "model_set_context": "1. [2024-11-27]. User is preparing for a test with IT ROAD Consulting on CoderPad, which involves Spring Boot, React, and Angular.\n\n2. [2024-11-27]. User creates coloring books, writes stories for adults, and articles. They are thinking of opening a website to sell their books.\n\n3. [2024-11-28]. User is a political and ideological education expert.\n\n4. [2024-11-28]. User is currently studying database design.\n\n5. [2024-11-28]. User's goal is to become a millionaire, disconnect from the world, and live an extraordinary, private lifestyle like 'Batman.' User wants to move to a peaceful country, like Switzerland, with great nature, alongside a great partner. They are willing to make any sacrifices to achieve this lifestyle and want to be trained by a personal coach to reach this goal.\n\n6. [2024-11-28]. User is working on a design project inspired by the traditional Yunnan瓦猫, incorporating a square space for an aquarium.\n\n7. [2024-11-29]. User's role model is Lei Jun.\n\n8. [2024-11-29]. User plans to apply for Google Summer of Code (GSoC) 2025 but does not know coding.\n\n9. [2024-11-29]. User is studying computer science and technology.\n\n10. [2024-11-29]. User is working on gig descriptions and emphasizes adding keywords, competitor analysis, and offering bonuses like discounts, unlimited modifications, and free after-sales services to make gigs attractive.\n\n11. [2024-11-29]. User is an experienced website developer who has completed many projects in various niches like real estate.\n\n12. [2024-11-29]. User is focusing on affiliate marketing and aims to create Instagram content for women aged 18-45 to increase engagement and sales.\n\n13. [2024-11-29]. User is a programming beginner with no prior experience. They have installed PyCharm and are learning Python to improve efficiency. They are studying mechanical engineering and robotics. They own the following books: 《编程珠玑》, 《编程珠玑续》, 《算法图解》, 《番茄工作法》, 《Python编程：从入门到实践》 by Eric Matthes, and 《MATLAB从入门到精通》.\n\n14. [2024-11-29]. User wants to open a YouTube channel.\n\n15. [2024-11-29]. User already has 1000+ AI-generated YouTube and Instagram (shorts/reels) videos.\n\n16. [2024-11-29]. User is Moroccan and prefers to communicate in Moroccan Darija.\n\n17. [2024-11-29]. User is preparing to write a thesis with the title: 'A Study on the Impact of Tax Incentive Policies on Technological Innovation in the Automobile Industry – A Case Study of Changan Automobile.'\n\n18. [2024-11-29]. User has defined an interface flag 'output token,' which generates a summary for a new ChatGPT to understand the current context of their work when triggered. This helps maintain context across different sessions where the previous conversation isn't available.",
+        "repository": null,
+        "repo_summary": null
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "aaa262ab-705b-4ca9-b5cf-4880e3431eba",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "5f9e042c-42d5-46ba-b8a2-184c56f668f7",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891297.253497,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "User prefers the output token format to be structured like a summary, including the current task, key points, and an example code snippet, to help a new ChatGPT understand the context of their work. The summary should also specify the purpose of the task."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": false,
+      "weight": 1,
+      "metadata": {
+        "sonic_classification_result": {
+          "latency_ms": 6052355161.95843,
+          "search_prob": 0.0014270977696077707
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "548f333e-9678-4a6e-b030-2efc41f9d308",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200007
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "bio",
+      "channel": null
+    },
+    {
+      "id": "5c66e586-2b92-44ab-8fbe-c1dc5a03d86b",
+      "author": {
+        "role": "tool",
+        "name": "bio",
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "Model set context updated."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "5f9e042c-42d5-46ba-b8a2-184c56f668f7",
+        "model_switcher_deny": []
+      },
+      "recipient": "assistant",
+      "channel": null
+    },
+    {
+      "id": "174a33d3-32f7-4929-8aa9-4575ac5e804e",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891299.389052,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "Understood! Going forward, when you trigger \"输出token,\" I will generate a structured summary like the example you provided, complete with key points and an example code snippet to capture the context of your work."
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "5c66e586-2b92-44ab-8fbe-c1dc5a03d86b",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "aaa2c333-c96e-454b-8b51-2250388751e5",
+      "author": {
+        "role": "user"
+      },
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "输出token"
+        ]
+      },
+      "metadata": {
+        "serialization_metadata": {
+          "custom_symbol_offsets": []
+        }
+      },
+      "create_time": 1732891314.77
+    },
+    {
+      "id": "80e37964-c617-48ea-947d-e6c7f4c4f618",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": null,
+      "update_time": null,
+      "content": {
+        "content_type": "model_editable_context",
+        "model_set_context": "1. [2024-11-27]. User is preparing for a test with IT ROAD Consulting on CoderPad, which involves Spring Boot, React, and Angular.\n\n2. [2024-11-27]. User creates coloring books, writes stories for adults, and articles. They are thinking of opening a website to sell their books.\n\n3. [2024-11-28]. User is a political and ideological education expert.\n\n4. [2024-11-28]. User is currently studying database design.\n\n5. [2024-11-28]. User's goal is to become a millionaire, disconnect from the world, and live an extraordinary, private lifestyle like 'Batman.' User wants to move to a peaceful country, like Switzerland, with great nature, alongside a great partner. They are willing to make any sacrifices to achieve this lifestyle and want to be trained by a personal coach to reach this goal.\n\n6. [2024-11-28]. User is working on a design project inspired by the traditional Yunnan瓦猫, incorporating a square space for an aquarium.\n\n7. [2024-11-29]. User's role model is Lei Jun.\n\n8. [2024-11-29]. User plans to apply for Google Summer of Code (GSoC) 2025 but does not know coding.\n\n9. [2024-11-29]. User is studying computer science and technology.\n\n10. [2024-11-29]. User is working on gig descriptions and emphasizes adding keywords, competitor analysis, and offering bonuses like discounts, unlimited modifications, and free after-sales services to make gigs attractive.\n\n11. [2024-11-29]. User is an experienced website developer who has completed many projects in various niches like real estate.\n\n12. [2024-11-29]. User is focusing on affiliate marketing and aims to create Instagram content for women aged 18-45 to increase engagement and sales.\n\n13. [2024-11-29]. User is a programming beginner with no prior experience. They have installed PyCharm and are learning Python to improve efficiency. They are studying mechanical engineering and robotics. They own the following books: 《编程珠玑》, 《编程珠玑续》, 《算法图解》, 《番茄工作法》, 《Python编程：从入门到实践》 by Eric Matthes, and 《MATLAB从入门到精通》.\n\n14. [2024-11-29]. User wants to open a YouTube channel.\n\n15. [2024-11-29]. User already has 1000+ AI-generated YouTube and Instagram (shorts/reels) videos.\n\n16. [2024-11-29]. User is Moroccan and prefers to communicate in Moroccan Darija.\n\n17. [2024-11-29]. User is preparing to write a thesis with the title: 'A Study on the Impact of Tax Incentive Policies on Technological Innovation in the Automobile Industry – A Case Study of Changan Automobile.'\n\n18. [2024-11-29]. User has defined an interface flag 'output token,' which generates a summary for a new ChatGPT to understand the current context of their work when triggered. This helps maintain context across different sessions where the previous conversation isn't available. User prefers the output token format to be structured like a summary, including the current task, key points, and an example code snippet, to help a new ChatGPT understand the context of their work. The summary should also specify the purpose of the task.",
+        "repository": null,
+        "repo_summary": null
+      },
+      "status": "finished_successfully",
+      "end_turn": null,
+      "weight": 1,
+      "metadata": {
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "aaa2c333-c96e-454b-8b51-2250388751e5",
+        "model_switcher_deny": []
+      },
+      "recipient": "all",
+      "channel": null
+    },
+    {
+      "id": "51c5afa7-eca5-488e-89cd-137a13b7afa2",
+      "author": {
+        "role": "assistant",
+        "name": null,
+        "metadata": {}
+      },
+      "create_time": 1732891315.849972,
+      "update_time": null,
+      "content": {
+        "content_type": "text",
+        "parts": [
+          "[输出Token]  \n当前任务：描述和完善一种面向社会建模和行为逻辑描述的语言体系，该语言通过关键字和结构化逻辑，帮助用户将社会现象拆解为可编程规则和可执行路径。  \n关键点：  \n1. 社会规律具有动态性，揭示后可能失效（RULE、SELF_REFLECT）。  \n2. 行为和论述以目标为导向（DISCOURSE、GOAL）。  \n3. 人类的认知有局限性，条件满足后方能进步（COGNITIVE_LIMIT、TRIGGER）。  \n4. 对社会现象没有绝对正误（RELATIVE_TRUTH）。  \n5. 生存是最高优先级，感性常大于理性（SURVIVAL_PRIORITY、EMOTIONAL_BIAS）。  \n6. 理论依赖已有知识构建（THEORY_DEPENDENCY）。  \n7. 经济基础决定上层建筑（ECONOMIC_BASE、SUPERSTRUCTURE）。  \n8. 哲学、神学作为认识世界的工具（PHILOSOPHICAL_MODEL）。  \n9. 欲望和行为逻辑简单粗略，但后续处理复杂（DESIRE、ACTION_SKELETON）。  \n10. 认知与存在是动态交互的过程（COGNITION、EXISTENCE）。  \n\n示例代码片段：  \n```plaintext  \nACTOR: \"User\"  \nDISCOURSE: \"Promote universal healthcare\"  \nGOAL: \"Reduce mortality by 20%\"  \nRULE: \"Public policies gain trust through transparency\"  \nSELF_REFLECT: IF RULE_DISCLOSED THEN RULE_EFFECTIVENESS -= 50%  \n```\n\n用途：支持社会工程、心理模拟、目标建模等。  \n[结束Token]"
+        ]
+      },
+      "status": "finished_successfully",
+      "end_turn": true,
+      "weight": 1,
+      "metadata": {
+        "sonic_classification_result": {
+          "latency_ms": 17878620545.624573,
+          "search_prob": 0.026052190514600237
+        },
+        "citations": [],
+        "content_references": [],
+        "message_type": "next",
+        "model_slug": "gpt-4o-mini",
+        "default_model_slug": "gpt-4o-mini",
+        "parent_id": "80e37964-c617-48ea-947d-e6c7f4c4f618",
+        "model_switcher_deny": [],
+        "finish_details": {
+          "type": "stop",
+          "stop_tokens": [
+            200002
+          ]
+        },
+        "is_complete": true
+      },
+      "recipient": "all",
+      "channel": null
+    }
+  ]
+}
