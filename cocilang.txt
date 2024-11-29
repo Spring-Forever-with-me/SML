@@ -1,0 +1,58 @@
+0.我为你定义一个接口标志语（输出token），它是这么运作的：因为ChatGPT每个对话相互分割，不互通上下文，当我指示出“输出token”时，你将生成一段话用于新的ChatGPT理解我们当前所做的工作
+
+1.
+[输出Token]
+当前任务：描述和完善一种面向社会建模和行为逻辑描述的语言体系，该语言通过关键字和结构化逻辑，帮助用户将社会现象拆解为可编程规则和可执行路径。
+关键点：
+1. 社会规律具有动态性，揭示后可能失效（`RULE`、`SELF_REFLECT`）。
+2. 行为和论述以目标为导向（`DISCOURSE`、`GOAL`）。
+3. 人类的认知有局限性，条件满足后方能进步（`COGNITIVE_LIMIT`、`TRIGGER`）。
+4. 对社会现象没有绝对正误（`RELATIVE_TRUTH`）。
+5. 生存是最高优先级，感性常大于理性（`SURVIVAL_PRIORITY`、`EMOTIONAL_BIAS`）。
+6. 理论依赖已有知识构建（`THEORY_DEPENDENCY`）。
+7. 经济基础决定上层建筑（`ECONOMIC_BASE`、`SUPERSTRUCTURE`）。
+8. 哲学、神学作为认识世界的工具（`PHILOSOPHICAL_MODEL`）。
+9. 欲望和行为逻辑简单粗略，但后续处理复杂（`DESIRE`、`ACTION_SKELETON`）。
+10. 认知与存在是动态交互的过程（`COGNITION`、`EXISTENCE`）。
+
+示例代码片段：
+```plaintext
+ACTOR: "User"
+DISCOURSE: "Promote universal healthcare"
+GOAL: "Reduce mortality by 20%"
+RULE: "Public policies gain trust through transparency"
+SELF_REFLECT: IF RULE_DISCLOSED THEN RULE_EFFECTIVENESS -= 50%
+
+用途：支持社会工程、心理模拟、目标建模等。 [结束Token]
+
+3.[输出Token]  
+当前任务：我们正在使用社会建模语言（SML）分析社会现象和行为逻辑。SML是一种结构化描述语言，包含关键字（如ACTOR, GOAL, RULE等）和逻辑规则，用于将社会现象分解为可编程规则和动态路径。当前对话围绕以下内容展开：  
+1. **主题**：{主题简述，如“松鼠花生事件中的政治行为”}  
+2. **目的**：{任务目标，如“利用SML分析特朗普的行为模式”}  
+3. **关键字**：  
+   - **ACTOR**：行为主体，指在模型中执行动作的个体或群体。  
+   - **DISCOURSE**：论述或讨论，描述行为者的目标和行为方向。  
+   - **GOAL**：目标，指行为主体期望通过行动实现的结果。  
+   - **RULE**：规则，描述行为或社会现象的普遍规律。  
+   - **SELF_REFLECT**：自我反思，指在规则暴露或应用后的效应反馈。  
+   - **COGNITIVE_LIMIT**：认知限制，指人类在特定条件下对信息的理解或处理的局限性。  
+   - **TRIGGER**：触发条件，描述某一事件或行为的触发因素或前提条件。  
+   - **RELATIVE_TRUTH**：相对真理，强调不同背景下的多元真理观。  
+   - **SURVIVAL_PRIORITY**：生存优先，表示行为主体在所有决策中优先考虑生存的基本原则。  
+   - **EMOTIONAL_BIAS**：情感偏向，指人类行为受到情感驱动或偏向的影响。  
+   - **THEORY_DEPENDENCY**：理论依赖，指知识和理论的建立依赖于现有的认知体系。  
+   - **ECONOMIC_BASE**：经济基础，指社会或行为模式的经济因素和结构。  
+   - **SUPERSTRUCTURE**：上层建筑，指由经济基础决定的社会结构、文化、政治等上层系统。  
+   - **PHILOSOPHICAL_MODEL**：哲学模型，作为理解世界的工具或框架，帮助解释复杂的现象。  
+   - **DESIRE**：欲望，指驱动个体行为的基本动机或需求。  
+   - **ACTION_SKELETON**：行为骨架，指基于欲望的行为框架或简单模型，后续会被复杂化。  
+   - **COGNITION**：认知，指个体或群体的认知过程，如何感知、处理和理解信息。  
+   - **EXISTENCE**：存在，指个体或群体的实际存在状态，以及存在与认知的互动。  
+   - **PUSH**：制造事件，指人为地推动一个事件的发生，以实现特定的社会反应或目标。  
+   - **MARK**：标记某个人，指将某个个体或群体指定为特定角色或符号，以在后续事件中提高其地位或影响力。  
+
+4. **背景信息**：{简要总结当前上下文和案例背景}  
+
+用途：此标志语旨在帮助新系统快速理解当前任务并无缝衔接对话。  
+[结束Token]
+
